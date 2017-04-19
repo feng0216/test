@@ -1,0 +1,103 @@
+.p-wzdt-t{
+	color:#46a1e5;
+	font-size:pxToRem(30);
+	padding-left:pxToRem(31);
+	height:pxToRem(40);
+	padding-top:pxToRem(5);
+	}
+.p-wzdt-c{
+	li{
+		background:#fff;
+		padding-top:pxToRem(10);
+		padding-left:pxToRem(8);
+		margin-top:pxToRem(10);
+		padding-bottom:pxToRem(40);
+	}
+}
+.p-wzdt-l{
+	float:left;
+	width:pxToRem(110);
+	height:pxToRem(110);
+	padding-bottom:pxToRem(10);
+	img{
+		width:pxToRem(110);
+		height:pxToRem(110);
+	}
+}
+.p-wzdt-r{
+	box-sizing:border-box;
+	margin-top:pxToRem(18);
+	margin-left:pxToRem(135);
+	p{
+		font-size:pxToRem(26);
+		line-height:pxToRem(30);
+		margin-right:pxToRem(10);
+	}
+}
+.p-wzdt-hf{
+	em{
+		font-style:normal;
+		font-size:pxToRem(26);
+		line-height:pxToRem(30);
+	}
+	var{
+		width:pxToRem(18);
+		font-size:pxToRem(26);
+		line-height:pxToRem(30);
+		padding-left:pxToRem(5);
+		font-style:normal;
+	}
+	span{
+		font-size:pxToRem(26);
+		margin-left:pxToRem(10);
+		line-height:pxToRem(30);
+		margin-right:pxToRem(10);
+	}
+}
+.p-wzdt-btn{
+	float:right;
+	height:pxToRem(45);
+	.wzdt-btn01{
+		float:left;
+		width:pxToRem(90);
+		height:pxToRem(30);
+		border-radius:pxToRem(20);
+		background:#46a1e5;
+		color:#fff;
+		margin-top:pxToRem(5);
+		border:none;
+		padding-top:pxToRem(7);
+		font-size:pxToRem(20);
+		line-height:pxToRem(25);
+		text-align:center;
+		margin-right:pxToRem(100);
+	}
+	span{
+		float:right;
+		margin-right:pxToRem(26);
+		line-height:pxToRem(45);
+		font-family:"Arail";
+		font-size:pxToRem(26);
+	}
+}
+.wzdt-money{
+		font-style:normal;
+		margin-top:pxToRem(10);
+		line-height:pxToRem(66);
+		color:#5abbf2;
+		font-weight:bold;
+	}
+	.wzdt-date{
+		margin-top:pxToRem(12);
+	}
+.gl-more{
+	a{
+		background:#fff;
+		color:#1c1c1c;
+		width:100%;
+		display:block;
+		// font-size:pxToRem(16);
+		line-height:pxToRem(48);
+		text-align:center;
+	}
+}

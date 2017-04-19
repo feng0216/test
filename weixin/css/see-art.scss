@@ -1,0 +1,36 @@
+.kwz-box{
+	padding-top:pxToRem(30);
+}
+.kwz-xx01{
+	float:left;
+	margin-top:pxToRem(25);
+}
+.kwz-name{
+	font-style:normal;
+	font-size:pxToRem(26);
+	line-height:pxToRem(38);
+}
+ .kwz-date{
+	padding-left:pxToRem(36);
+	font-size:pxToRem(26);
+	line-height:pxToRem(38);
+}
+.kwz-xx02{
+	float:right;
+	margin-top:pxToRem(25);
+	padding-right:pxToRem(40);
+	em{
+		float:left;
+		width:pxToRem(33);
+		height:pxToRem(20);
+		margin-top:pxToRem(4);
+		background:url(i/guanli-jl.png?__base64) no-repeat 0 0;
+		background-size:100% 100%;
+	}
+	span{
+		float:left;
+		font-size:pxToRem(26);
+		padding-left:pxToRem(17);
+		line-height:pxToRem(32);
+	}
+}

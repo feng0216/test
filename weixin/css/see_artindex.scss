@@ -1,0 +1,20 @@
+@import "mobile";
+// @import "nav";
+// @import "art-dynamic";
+// @import "see-art";
+.see-nav{
+	height:pxToRem(80);
+	line-height:pxToRem(60);
+	background-color:#fff;
+	overflow-y:hidden;
+	overflow-x:auto;
+	width:100%;
+	ul{
+		height:pxToRem(80);
+		width:1000px;
+		li{
+			width:pxToRem(80);
+			float:left; 
+		}
+	}
+}
